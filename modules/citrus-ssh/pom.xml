@@ -5,7 +5,7 @@
   <parent>
     <artifactId>citrus</artifactId>
     <groupId>com.consol.citrus</groupId>
-    <version>2.8.1-jnb</version>
+    <version>2.8.2-jnb</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   
